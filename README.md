@@ -1,13 +1,13 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/fan-xii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A8D8EA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=fan-xii;Exploring+AI+%26+Building+Cool+Stuff;One+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A8D8EA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=fan-xii;Exploring+AI+%26+Building+Cool+Stuff;One+project+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/fan-xii">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=400&size=16&pause=1000&color=AA96DA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Learning+by+building;AI+%E2%80%94+Desktop+Apps+%E2%80%94+Research+Tools;Always+experimenting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=400&size=16&pause=1000&color=AA96DA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Learning+by+building;AI+%E2%80%94+Desktop+Apps+%E2%80%94+Research+Tools;Always+experimenting" alt="Typing SVG" />
   </a>
 </p>
 
